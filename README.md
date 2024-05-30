@@ -4,7 +4,7 @@ The dataset can be downloaded from https://drive.google.com/file/d/10fBgqLazWCNJ
 
 To run the code, run the files in the following order (the .pkl files generated save the output at each step of the process)
 
-It is very likely that the directory name for the dataset will need changing to run the code.
+It is very likely that the directory name for the dataset will need changing to run the code
 
 ===
 
@@ -22,5 +22,5 @@ _2_url_to_evidence (some URLs may dead)
 
 5_kg_builder_silly
 
-EITHER FILE STARTING WITH 6 (these are configured to run score/score/original, this can be changed around line 400)
+One of the 6_files (these are configured to run score/score/original, this can be changed around line 400)
 
