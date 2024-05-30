@@ -22,5 +22,5 @@ _2_url_to_evidence (some URLs may dead)
 
 5_kg_builder_silly
 
-One of the 6_files (these are configured to run score/score/original, this can be changed around line 400)
+6_fixed_roberta_mha (is configured to run score/score/original, this can be changed around line 400)
 
